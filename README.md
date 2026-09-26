@@ -12,7 +12,7 @@ Calculates semester results for 4 subjects using MSE (30%) + ESE (70%) weightage
 
 ![image alt](https://github.com/Atharva212428/vit-result-react-main/blob/e4823ea3714c6f08bbae21f68ef40ff6b2e784b5/Screenshot%202026-09-26%20221644.png)
 ![image alt](https://github.com/Atharva212428/vit-result-react-main/blob/94d5e3c7b747d50937dd618cc28bc67e074649bb/Screenshot%202026-09-26%20221707.png)
-![image alt]()
+![image alt](https://github.com/Atharva212428/vit-result-react-main/blob/cb58703b201a5e4fff9783edef42e1ab7865dccb/Screenshot%202026-09-26%20221731.png)
 ## Run
 npm install
 npm run dev
